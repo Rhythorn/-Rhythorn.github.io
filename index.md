@@ -18,6 +18,6 @@ And the Mountains Echoed by Khaled Hosseini, Inferno by Dan Brown, Homo Deus by 
 all the way Down by John Green.
 
 
-Follow me on : 
-## [FB](https://www.facebook.com/shriganesh.bollakpalli.7) / ## [GH](https://github.com/Rhythorn)
+##### Follow me on : 
+##### [FB](https://www.facebook.com/shriganesh.bollakpalli.7) / [GH](https://github.com/Rhythorn)
 
