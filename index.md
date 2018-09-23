@@ -14,13 +14,14 @@ Currently part of the [DMT - Webops Team](https://github.com/DMT-IIITDM) of IIIT
 in Adobe Photoshop, Illustrator, XD & InDesign and 3D modeling in Fusion 360, Inventor and CATIA. 
 
 Love reading. A few recommendations if you have not read to start off could include :
+<font size=8>
 * End of Eternity by Isaac Asimov
 * And the Mountains Echoed by Khaled Hosseini
 * Inferno by Dan Brown
 * Homo Deus by Y.N.Harari
 * Alchemist by Paulo Coelho
 * Alaska by John Green
-* Turtles all the way Down by John Green
+* Turtles all the way Down by John Green </font>
 
 
 ##### Follow me on : 
