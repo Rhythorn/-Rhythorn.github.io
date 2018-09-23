@@ -19,5 +19,5 @@ all the way Down by John Green.
 
 
 ##### Follow me on : 
-##### [FB](https://www.facebook.com/shriganesh.bollakpalli.7) / [GH](https://github.com/Rhythorn)
+##### [FB](https://www.facebook.com/shriganesh.bollakpalli.7) / [GH](https://github.com/Rhythorn) / [G+](https://plus.google.com/+shriganeshbollakpalli) / [IG](https://www.instagram.com/_s_ganesh/)
 
