@@ -1,8 +1,8 @@
-#Karibu!
+# Karibu!
 
-##**Who am I?**
+## **Who am I?**
 
-###I am Ganesh. 19, Mech Undergrad from Chennai, India.
+### I am Ganesh. 19, Mech Undergrad from Chennai, India.
 
 Moved to Dar-es-Salaam, Tanzania in 2006 and stayed over for more than a decade. Completed both my primary and secondary schooling from 
 Academic Intl. School in the PCMC track. Currently pursuing a Dual Degree Mechanical Engg. Course at IIITDM Kancheepuram.
@@ -19,5 +19,5 @@ all the way Down by John Green.
 
 
 Follow me on : 
-[![/FB.png]](https://www.facebook.com/shriganesh.bollakpalli.7) / [![/GH.png]](https://github.com/Rhythorn)
+[## FB](https://www.facebook.com/shriganesh.bollakpalli.7) / [## GH](https://github.com/Rhythorn)
 
